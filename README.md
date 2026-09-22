@@ -2,6 +2,8 @@
 
 A MySQL analysis of a restaurant's order history — exploring menu composition, pricing, and order-level sales patterns across three months of point-of-sale data.
 
+![MySQL](https://img.shields.io/badge/Database-MySQL-4479A1?logo=mysql&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 
 ---
 
